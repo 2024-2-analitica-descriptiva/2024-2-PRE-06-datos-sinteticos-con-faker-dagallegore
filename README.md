@@ -1,4 +1,4 @@
-# Configuración en MacOS y Linux
+apt install python3.12-venv# Configuración en MacOS y Linux
 
 Ejecute los siguientes comandos en el terminal:
 
